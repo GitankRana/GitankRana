@@ -1,16 +1,27 @@
-## Hi there 👋
+Hey there 👋
 
-<!--
-**GitankRana/GitankRana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer who enjoys building simple and useful things.
+Interested in web development, automation, and clean UI design.
 
-Here are some ideas to get you started:
+## Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* C++
+* JavaScript
+* MERN Stack
+* Python
+* HTML / CSS
+* Git & GitHub
+
+## Current Focus
+
+* Full Stack Development
+* Better UI/UX
+* Real-world projects
+
+## Fun
+
+* Tech & design
+* Building random ideas
+* Learning new tools
+
+> Build. Learn. Repeat.
