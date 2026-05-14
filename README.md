@@ -5,7 +5,7 @@ Interested in web development, automation, and clean UI design.
 
 ## Stack
 
-C++, JavaScript, MERN, Backend Development, Python, HTML/CSS, Git & GitHub
+C++, Python , JavaScript, MERN , HTML/CSS, Git & GitHub
 
 ## Focus
 
