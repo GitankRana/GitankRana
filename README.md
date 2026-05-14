@@ -5,23 +5,14 @@ Interested in web development, automation, and clean UI design.
 
 ## Stack
 
-* C++
-* JavaScript
-* MERN Stack
-* Python
-* HTML / CSS
-* Git & GitHub
+C++, JavaScript, MERN, Backend Development, Python, HTML/CSS, Git & GitHub
 
-## Current Focus
+## Focus
 
-* Full Stack Development
-* Better UI/UX
-* Real-world projects
+Full Stack Development, Clean UI/UX, Real-world Projects
 
 ## Fun
 
-* Tech & design
-* Building random ideas
-* Learning new tools
+Tech, Gym, Building Random Ideas
 
 > Build. Learn. Repeat.
